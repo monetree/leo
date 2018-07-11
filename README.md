@@ -17,7 +17,7 @@ steps to run the project:
 
 task -> refer the pdf from repository.
 
-Technology used: php(codeigniter),angularjs,javascript,html,css,bootstarap
+Technology used: php(codeigniter),mysql,linux(os),angularjs,javascript,html,css,bootstarap
 thanks to:sweet alert and font awesome
 created on : 2018 july 12
 
